@@ -20,7 +20,7 @@ body{
 .leftContainer {
     color: #FFFFFF;
     background-size: cover;
-    background-image: url("/download.jpg");
+    background-image: url("https://github.com/shahinepzha/loginpagea1/blob/main/download.jpg");
     padding: 40px 0px;
     justify-content: center;
     text-align: center;
